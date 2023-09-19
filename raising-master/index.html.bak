@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Home</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+		<meta name="format-detection" content="telephone=no">
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<!-- Fonts-->
+		<link rel="stylesheet" type="text/css" href="assets/fonts/fontawesome/font-awesome.min.css">
+		<link rel="stylesheet" type="text/css" href="assets/fonts/pe-icon/pe-icon.css">
+		<!-- Vendors-->
+		<link rel="stylesheet" type="text/css" href="assets/vendors/bootstrap/grid.css">
+		<link rel="stylesheet" type="text/css" href="assets/vendors/magnific-popup/magnific-popup.min.css">
+		<link rel="stylesheet" type="text/css" href="assets/vendors/swiper/swiper.css">
+		<!-- App & fonts-->
+		<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700|Oswald:400,600|Playfair+Display:400i">
+		<link rel="stylesheet" type="text/css" href="assets/css/main.css"><!--[if lt IE 9]>
+			<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+		<![endif]-->
+	</head>
+	
+	<body>
+				
+				<!-- preload -->
+				<div class="preload" id="preload">
+					<div class="cssload-spin-box"></div>
+				</div><!-- End / preload -->
+				
+		<div class="page-wrap">
+			
+			<!-- header -->
+			<header class="header header-fixheight header--fixed">
+				<div class="container">
+					<div class="header__inner">
+						<div class="header-logo"><a href="home.html"><img src="assets/img/.png" alt=""/></a></div>
+						
+						<!-- raising-nav -->
+						<nav class="raising-nav">
+							
+							<!-- raising-menu -->
+							<ul class="raising-menu">
+								<li class="current"><a href="#id1">Home</a>
+								</li>
+								<li><a href="#id2">About</a>
+								</li>
+								<li><a href="#id3">service</a>
+								</li>
+								</li>
+								<li><a href="#id7">contact us</a>
+								</li>
+							</ul><!-- raising-menu -->
+							
+							<div class="navbar-toggle"><i class="fa fa-bars"></i></div>
+						</nav><!-- End / raising-nav -->
+						
+						<div class="btn-right">
+							<div class="search-btn"><i class="fa fa-search"></i></div>
+						</div>
+						<div class="searchbar">
+							<div class="searchbar__group"><span class="searchbar__addon"><i class="fa fa-search"></i></span>
+								<input class="searchbar__input" type="text" name="search" value="" placeholder="Search"/><span class="searchbar__close"></span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</header><!-- End / header -->
+			
+			<!-- Content-->
+			<div class="md-content">
+				
+				<!-- hero -->
+				<hero class="hero" id="id1">
+					
+					<!-- swiper swiper-container -->
+					<div class="swiper swiper-container">
+						<div class="swiper-wrapper">
+							<div class="hero__wrapper" style="background-image: url('assets/img/slider/1.jpg');">
+								<div class="hero__inner">
+									<div class="container">
+										<h1 class="hero__title">Subhan Genral Contractor</h1>
+										
+										
+										
+									</div>
+								</div>
+							</div>
+							<div class="hero__wrapper" style="background-image: url('assets/img/slider/2.jpg');">
+								<div class="hero__inner">
+									<div class="container">
+										<h1 class="hero__title">Subhan Genral Contractor</h1>
+										
+										
+										
+										
+									</div>
+								</div>
+							</div>
+							<div class="hero__wrapper" style="background-image: url('assets/img/slider/3.jpg');">
+								<div class="hero__inner">
+									<div class="container">
+										
+											<h1 class="hero__title">Subhan Genral Contruactor</h1>
+										
+										
+									</div>
+								</div>
+							</div>
+							<div class="hero__wrapper" style="background-image: url('assets/img/slider/4.jpg');">
+								<div class="hero__inner">
+									<div class="container">
+										<h1 class="hero__title">Subhan Genral Contractor</h1>
+										
+										
+										
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="swiper-pagination-custom"></div>
+						<div class="swiper-button-custom">
+							<div class="swiper-button-prev-custom"><i class="fa fa-angle-left"></i></div>
+							<div class="swiper-button-next-custom"><i class="fa fa-angle-right"></i></div>
+						</div>
+					</div><!-- End / swiper swiper-container -->
+					
+				</hero><!-- End / hero -->
+				
+				
+				<!-- cta-02 -->
+				<div class="cta-02">
+					<div class="container">
+						<div class="row">
+							<div class="col-lg-9 ">
+								<h3 class="cta-02__title">The best Contractors are here</h3>
+							</div>
+							<div class="col-lg-3  md-text-right">
+								
+								
+							</div>
+						</div>
+					</div>
+				</div><!-- End / cta-02 -->
+				
+				
+				<!-- Section -->
+				<section class="md-section" id="id2" style="background-color:#fff;padding:60px 0;">
+					<div class="container">
+						<div class="row">
+							<div class="col-lg-6 ">
+								<div class="mb-30">
+									
+									<!-- sec-title -->
+									<div class="sec-title sec-title__lg-title">
+										<h2 class="sec-title__title">About <span>The Subhan Company</span></h2><span class="sec-title__divider"></span>
+									</div><!-- End / sec-title -->
+									
+									<p>Subhan Genral Contractor compnay is one of the most trusted comapny in Canada We have more than 3 years of  experinece with excellent colleague  </p><br>
+									<p> </p><br><br><a class="btn btn-primary btn-outline" href="#">More about us</a>
+								</div>
+							</div>
+							<div class="col-lg-6 ">
+								
+								<!-- about -->
+								<div class="about"><img src="assets/img/about/eng.jpg" alt=""/>
+									
+									<!-- quote-02 -->
+									<blockquote class="quote-02 about-quote">
+										<p class="quote-02__text"> I am Eng hashmatullah Azizi from Afghanistan living in Canada Ontario i am Establisher of Subhan Genral Contractor company  </p>
+										
+										<!-- authorbox -->
+										<div class="authorbox">
+											<div class="authorbox__avartar" style="background-image: url(https://unsplash.it/800);"><img src="https://unsplash.it/800" alt=""/></div>
+											<div class="authorbox__info">
+												<h5 class="authorbox__name"> Eng Hashmatullah Azizi</h5>
+												<p class="authorbox__work">Establisher</p>
+											</div>
+										</div><!-- End / authorbox -->
+										
+									</blockquote><!-- End / quote-02 -->
+									
+								</div><!-- End / about -->
+								
+							</div>
+						</div>
+					</div>
+				</section>
+				<!-- End / Section -->
+				
+				
+				<!-- Section -->
+				<section class="md-section" id="id3">
+					<div class="container">
+						<div class="row">
+							<div class="col-lg-8 col-xs-offset-0 col-sm-offset-0 col-md-offset-0 col-lg-offset-2 ">
+								
+								<!-- sec-title -->
+								<div class="sec-title sec-title__lg-title md-text-center">
+									<h2 class="sec-title__title">Our services</h2><span class="sec-title__divider"></span>
+								</div><!-- End / sec-title -->
+								
+							</div>
+						</div>
+						<div class="row row-eq-height">
+							<div class="col-sm-6 col-md-6 col-lg-4 ">
+								
+								<!-- services -->
+								<div class="services">
+									<div class="services__img"><img src="assets/img/service/1.jpg" alt=""/></div>
+									<h2 class="services__title"><a href="#">General Contracting</a></h2>
+									<div class="services__desc">????</div>
+									
+									<!-- btn -->
+									<a class="btn btn btn-primary btn-custom" href="service-single.html">read more
+									</a><!-- End / btn -->
+									
+								</div><!-- End / services -->
+								
+							</div>
+							<div class="col-sm-6 col-md-6 col-lg-4 ">
+								
+								<!-- services -->
+								<div class="services">
+									<div class="services__img"><img src="assets/img/service/R.jpeg" alt=""/></div>
+									<h2 class="services__title"><a href="#">Window & Door installing</a></h2>
+									<div class="services__desc">?????</div>
+									
+									<!-- btn -->
+									<a class="btn btn btn-primary btn-custom" href="service-single.html">read more
+									</a><!-- End / btn -->
+									
+								</div><!-- End / services -->
+								
+							</div>
+							<div class="col-sm-6 col-md-6 col-lg-4 ">
+								
+								<!-- services -->
+								<div class="services">
+									<div class="services__img"><img src="assets/img/service/1.webp" alt=""/></div>
+									<h2 class="services__title"><a href="#"> House Painting</a></h2>
+									<div class="services__desc">????</div>
+									
+									<!-- btn -->
+									<a class="btn btn btn-primary btn-custom" href="service-single.html">read more
+									</a><!-- End / btn -->
+									
+								</div><!-- End / services -->
+								
+							</div>
+							<div class="col-sm-6 col-md-6 col-lg-4 ">
+								
+								<!-- services -->
+								<div class="services">
+									<div class="services__img"><img src="assets/img/service/4.jpg" alt=""/></div>
+									<h2 class="services__title"><a href="#">Construction Consultant</a></h2>
+									<div class="services__desc">?????</div>
+									
+									<!-- btn -->
+									<a class="btn btn btn-primary btn-custom" href="service-single.html">read more
+									</a><!-- End / btn -->
+									
+								</div><!-- End / services -->
+								
+							</div>
+							<div class="col-sm-6 col-md-6 col-lg-4 ">
+								
+								<!-- services -->
+								<div class="services">
+									<div class="services__img"><img src="assets/img/service/5.jpg" alt=""/></div>
+									<h2 class="services__title"><a href="#">Construction Consultant</a></h2>
+									<div class="services__desc">??????.</div>
+									
+									<!-- btn -->
+									<a class="btn btn btn-primary btn-custom" href="service-single.html">read more
+									</a><!-- End / btn -->
+									
+								</div><!-- End / services -->
+								
+							</div>
+							<div class="col-sm-6 col-md-6 col-lg-4 ">
+								
+								<!-- services -->
+								<div class="services">
+									<div class="services__img"><img src="assets/img/service/6.jpg" alt=""/></div>
+									<h2 class="services__title"><a href="#">General Builder</a></h2>
+									<div class="services__desc">?????.</div>
+									
+									<!-- btn -->
+									<a class="btn btn btn-primary btn-custom" href="service-single.html">read more
+									</a><!-- End / btn -->
+									
+								</div><!-- End / services -->
+								
+							</div>
+						</div>
+					</div>
+		
+				
+		
+			
+		
+			
+				<!-- copyright-01 -->
+				<div class="copyright-01 md-text-center">
+					<div class="container">
+						<p class="copyright-01__copy">desined by Murtaza Azizi</p>
+					</div>
+				</div><!-- End / copyright-01 -->
+				
+			</footer><!-- End / footer-01 -->
+			
+		</div>
+		<!-- Vendors-->
+		<script type="text/javascript" src="assets/vendors/jquery/jquery.min.js"></script>
+		<script type="text/javascript" src="assets/vendors/imagesloaded/imagesloaded.pkgd.js"></script>
+		<script type="text/javascript" src="assets/vendors/isotope-layout/isotope.pkgd.js"></script>
+		<script type="text/javascript" src="assets/vendors/jquery.matchHeight/jquery.matchHeight.min.js"></script>
+		<script type="text/javascript" src="assets/vendors/magnific-popup/jquery.magnific-popup.min.js"></script>
+		<script type="text/javascript" src="assets/vendors/masonry-layout/masonry.pkgd.js"></script>
+		<script type="text/javascript" src="assets/vendors/swiper/swiper.jquery.js"></script>
+		<script type="text/javascript" src="assets/vendors/jquery-one-page/jquery.nav.js"></script>
+		<script type="text/javascript" src="assets/vendors/menu/menu.js"></script>
+		<script type="text/javascript" src="assets/vendors/jquery.waypoints/jquery.waypoints.min.js"></script>
+		<!-- App-->
+		<script type="text/javascript" src="assets/js/main.js"></script>
+	</body>
+</html>
